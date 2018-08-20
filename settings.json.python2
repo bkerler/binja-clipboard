@@ -1,0 +1,11 @@
+{
+	"python" : 
+	{
+		"interpreter" : "c:\\python27\\python27.dll"
+	},
+	"ui" : 
+	{
+		"colorblind" : false,
+		"debug" : true
+	}
+}

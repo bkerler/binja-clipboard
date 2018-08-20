@@ -1,0 +1,11 @@
+{
+	"python" : 
+	{
+		"interpreter" : "c:\\python36\\python36.dll"
+	},
+	"ui" : 
+	{
+		"colorblind" : false,
+		"debug" : true
+	}
+}
